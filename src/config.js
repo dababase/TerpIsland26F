@@ -4,7 +4,3 @@
 // 2026's Flower track, so it's prefilled, but it'd still resolve any other
 // event code typed in.
 export const EVENT_CODE = 'TerpIsle26F'
-
-// Judging guide pages shown from the "Judging guide" button on the scoring
-// screen (images in /public/guide). Empty = the button is hidden.
-export const GUIDE_PAGES = []

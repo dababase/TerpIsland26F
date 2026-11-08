@@ -51,5 +51,5 @@ export const GUIDE_DRAFT = [
   { p: 'We encourage you to share your judging experience! Tag **@HeadyHappeningSesh** and **@FireFarmsMaui** and help keep our traditions alive while inspiring future connoisseurs.' },
 ];
 
-// Hidden until the drafted Flower wording above is approved.
-export const GUIDE = [];
+// Approved by Nick 2026-11-08.
+export const GUIDE = GUIDE_DRAFT;

@@ -878,7 +878,7 @@ function EntryModal({ entry, categories, scores, note, disabled, saveStatus, las
               </div>
             );
           })}
-          <div className="note-label" style={{ marginTop: '16px' }}>Overall note for this entry</div>
+          <div className="note-label" style={{ marginTop: '16px' }}>Overall note for this entry (Indoor or Outdoor? What do you think?)</div>
           <textarea value={note} onChange={(e) => onCommitEntryNote(e.target.value)} />
         </div>
       </div>
